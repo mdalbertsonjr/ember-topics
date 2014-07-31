@@ -1,5 +1,6 @@
 {
   "predef": [
+    "Ember",
     "document",
     "window",
     "location",
